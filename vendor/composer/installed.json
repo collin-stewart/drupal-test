@@ -1382,53 +1382,6 @@
             "install-path": null
         },
         {
-            "name": "drupal/zuvi",
-            "version": "11.0.1",
-            "version_normalized": "11.0.1.0",
-            "source": {
-                "type": "git",
-                "url": "https://git.drupalcode.org/project/zuvi.git",
-                "reference": "11.0.1"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/zuvi-11.0.1.zip",
-                "reference": "11.0.1",
-                "shasum": "fa2e3b1aa0d3cf244d02fda02fc09f8ddf97d13f"
-            },
-            "require": {
-                "drupal/core": "^9 || ^10 || ^11"
-            },
-            "type": "drupal-theme",
-            "extra": {
-                "drupal": {
-                    "version": "11.0.1",
-                    "datestamp": "1758004110",
-                    "security-coverage": {
-                        "status": "covered",
-                        "message": "Covered by Drupal's security advisory policy"
-                    }
-                }
-            },
-            "installation-source": "dist",
-            "notification-url": "https://packages.drupal.org/8/downloads",
-            "license": [
-                "GPL-2.0-or-later"
-            ],
-            "authors": [
-                {
-                    "name": "ravis",
-                    "homepage": "https://www.drupal.org/user/79351"
-                }
-            ],
-            "description": "A light weight, flexible, fully responsive and multi-purpose Drupal 8, 9, 10, 11 theme by <a href=\"https://drupar.com\" target=\"_blank\">Drupar.com</a><br /><a href=\"https://drupar.com/theme/zuvi\" target=\"_blank\">Theme Page</a> | <a href=\"https://drupar.com/zuvi-documentation\" target=\"_blank\">Theme Documentation</a> | <a href=\"https://drupar.com/theme/zuvipro\" target=\"_blank\">Zuvi Pro</a>",
-            "homepage": "https://www.drupal.org/project/zuvi",
-            "support": {
-                "source": "https://git.drupalcode.org/project/zuvi"
-            },
-            "install-path": "../../web/themes/contrib/zuvi"
-        },
-        {
             "name": "drush/drush",
             "version": "13.7.1",
             "version_normalized": "13.7.1.0",
